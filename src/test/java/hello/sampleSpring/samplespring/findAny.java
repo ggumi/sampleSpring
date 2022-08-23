@@ -1,4 +1,4 @@
-package hello.samplespring.samplespring;
+package hello.sampleSpring.samplespring;
 
 import org.junit.jupiter.api.Test;
 
